@@ -28,3 +28,5 @@ fs.appendFile("./name.txt", `Again deepanshu ${Date.now()} \n\n`, (err)=>{consol
 // fs.unlinkSync("./log.txt");
 
 console.log(fs.statSync("./name.txt"))
+
+fs.mkdirSync("./Practice/index.js",{recursive:true});
