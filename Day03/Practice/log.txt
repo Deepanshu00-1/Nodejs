@@ -1,9 +1,7 @@
 logs will be updated here
-Fri Dec 06 2024 16:09:33 GMT+0530 (India Standard Time): /contact - request received
+Mon Dec 09 2024 18:52:03 GMT+0530 (India Standard Time): /contact - request received
 
-Fri Dec 06 2024 16:09:33 GMT+0530 (India Standard Time): /favicon.ico - request received
+Mon Dec 09 2024 18:52:15 GMT+0530 (India Standard Time): /contact?myname=rohan - request received
 
-Fri Dec 06 2024 16:09:36 GMT+0530 (India Standard Time): / - request received
-
-Fri Dec 06 2024 16:09:36 GMT+0530 (India Standard Time): /favicon.ico - request received
+Mon Dec 09 2024 18:52:22 GMT+0530 (India Standard Time): /contact - request received
 
